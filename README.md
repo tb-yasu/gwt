@@ -54,6 +54,8 @@ Reference
 
 (6) F. Claude and G. Navarro: The Wavelet Matrix, SPIRE 2012.
 
-Licence: GNU General Public License
+Licence
+
+GNU General Public License
 
 
