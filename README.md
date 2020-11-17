@@ -33,23 +33,12 @@ Format of output file
 
 Reference
 (1) Y.Tabei and K.Tsuda: Kernel-based Similarity Search in Massive Graph Databases with Wavelet Trees, Eleventh SIAM International Conference on Data Mining (SDM), 2011. Link to the PDF
-
 (2) N.Shervashidze and K. M. Borgwardt : Fast subtree kernels on graphs. In Adavances in Neural Information Processing Systems (NIPS), 2010.
-
 (3) R.Grossi, A.Gupta, and J.Vitter : High-order entropy-compressed text indexes. In Proceedings of the 14th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), pages 635-645, 2003.
-
 (4) Link to wat-array, c++ library of wavelet tree
-
 (5) http://www.cs.ucsb.edu/~xyan/software/gSpan.htm
-
 (6) F. Claude and G. Navarro: The Wavelet Matrix, SPIRE 2012.
 
-Project Information
-The project was created on Mar 28, 2011.
+Licence: GNU General Public License
 
-License: New BSD License
-8 stars
-svn-based source control
-Labels:
-GraphMining SimilaritySearch GraphIndexing WaveletTree Datastructure
 
